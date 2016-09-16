@@ -1,7 +1,7 @@
 # ionicStarter
 ## Intro
 
-This project helps you to create a mobile app in a snap, it contains:
+This project which is based on https://github.com/javebratt/ionic-firebase-auth helps you to create a mobile app in a snap, it contains:
 
 - login page
 - logout
