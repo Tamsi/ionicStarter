@@ -1,5 +1,5 @@
 # ionicStarter
 
-__Do not forget to create a new firebase project__
+__.Do not forget to create a new firebase project__
 
-And update credentials in app.ts
+.And update credentials in app.ts
