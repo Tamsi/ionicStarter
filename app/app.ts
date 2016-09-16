@@ -17,12 +17,12 @@ export class MyApp {
   constructor(public platform: Platform) {
 
 	var config = {
-		apiKey: "AIzaSyBXe_xh1zf2w4an_eEekrzOIq7AVDM0EXE",
-		authDomain: "tous-a-table.firebaseapp.com",
-		databaseURL: "https://tous-a-table.firebaseio.com",
-		storageBucket: "tous-a-table.appspot.com",
-		messagingSenderId: "493483679098"
-	};
+    apiKey: "URapiKey",
+    authDomain: "URauthDomain",
+    databaseURL: "URdatabaseURL",
+    storageBucket: "URstorageBucket",
+    messagingSenderId: "URmessagingSenderId"
+  };
 
 	firebase.initializeApp(config);
 
